@@ -1,2 +1,8 @@
 .env
 README.md
+.gitignore
+.pytest_cache/
+__pycache__/
+seed.py
+backend/__pycache__/
+backend/requirements-dev.txt
